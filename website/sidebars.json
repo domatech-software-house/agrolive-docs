@@ -1,0 +1,92 @@
+{
+    "docs": {
+        "Getting Started": [
+            "introduction"
+        ],
+        "Auth": [
+            "user/authentication"
+        ],
+        "User": [
+            "user/create",
+            "user/get-all",
+            "user/get",
+            "user/update",
+            "user/delete"
+        ],
+        "User Avatar": [
+            "user/avatar",
+            "user/remove-avatar"
+        ],
+        "Establishment": [
+            "establishment/create",
+            "establishment/get-all",
+            "establishment/get",
+            "establishment/update",
+            "establishment/delete"
+        ],
+        "Establishment Avatar": [
+            "establishment/avatar",
+            "establishment/remove-avatar"
+        ],
+        "Type of Products": [
+            "types/create",
+            "types/get-all",
+            "types/update",
+            "types/delete"
+        ],
+        "Category of Products": [
+            "category/create",
+            "category/get-all",
+            "category/update",
+            "category/delete"
+        ],
+        "Address": [
+            "address/create",
+            "address/get-all",
+            "address/get",
+            "address/update",
+            "address/delete"
+        ],
+        "Product": [
+            "product/create",
+            "product/get-all",
+            "product/get",
+            "product/update",
+            "product/delete"
+        ],
+        "Product Photo": [
+            "product-photo/create",
+            "product-photo/delete"
+        ],
+        "Payment": [
+            "payment/create",
+            "payment/get-all",
+            "payment/get",
+            "payment/update"
+        ],
+        "Buyer Evaluation": [
+            "buyer-evaluation/create",
+            "buyer-evaluation/get-all",
+            "buyer-evaluation/get"
+        ],
+        "Request Evaluation": [
+            "request-evaluation/create",
+            "request-evaluation/get-all",
+            "request-evaluation/get"
+        ],
+        "Notification": [
+            "notification/create",
+            "notification/update",
+            "notification/get"
+        ],
+        "Chat": [
+            "chat/create",
+            "chat/get-all",
+            "chat/get"
+        ],
+        "Chat Comment": [
+            "comments/create"
+        ]
+        
+    }
+}
